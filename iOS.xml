@@ -9,7 +9,7 @@
   </Settings>
   <TranscodeTargets>
     <VideoProfile container="mkv" codec="h264,h265" audioCodec="flac" />
-    <MusicProfile container="flac" codec="flac" />
+    <MusicProfile container="alac" codec="alac" />
     <PhotoProfile container="jpeg" />
     <SubtitleProfile container="webvtt" subtitleCodec="webvtt"/>
   </TranscodeTargets>
