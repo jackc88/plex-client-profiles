@@ -32,6 +32,7 @@
     <VideoAudioCodec name="*">
       <Limitations>
         <UpperBound name="audio.channels" value="2" onlyTranscodes="true" />
+        <NotMatch name="audio.profile" substring="eac3" isRequired="true" />
       </Limitations>
     </VideoAudioCodec>
   </CodecProfiles>
