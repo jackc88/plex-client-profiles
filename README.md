@@ -1,3 +1,5 @@
+This is a fork of Mike Connelly's release to address issues found on ATV A12 version.  The original README is below.
+
 In this repository are my custom XML files for Plex. These are intended for use with the latest Apple hardware, using the most recent Plex clients with the "experimental player" enabled (available only with Plex Pass).
 
 Currently, the following profiles are included:
