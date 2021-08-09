@@ -32,7 +32,8 @@
       <Limitations>
         <UpperBound name="audio.channels" value="8" />
 	<NotMatch name="audio.profile" substring="eac3" isRequired="true" />
-      </Limitations>
+	<NotMatch name="audio.profile" substring="he-aac" isRequired="true" />
+     </Limitations>
     </VideoAudioCodec>
   </CodecProfiles>
 </Client>
